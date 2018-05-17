@@ -1,7 +1,7 @@
 # PubDetector-
 Pub Detector for live video 
 
-
+Requires: urlparse, urllib2 (install by using 'pip install xxx') 
 For using the download tool : After change your own path of output file and execute 
   >python reader.py
 
